@@ -59,19 +59,19 @@
 				<h2 class="text-xl font-bold text-primary mb-4">Recent Posts</h2>
 				<ul class="space-y-4">
 					<li>
-						<a href="#" class="text-primary hover:text-secondary">
+						<a href="./blog" class="text-primary hover:text-secondary">
 							<h3 class="font-semibold">Essential Maintenance Tips for Your Luxury Yacht</h3>
 							<p class="text-sm text-gray-600">May 10, 2024</p>
 						</a>
 					</li>
 					<li>
-						<a href="#" class="text-primary hover:text-secondary">
+						<a href="./blog" class="text-primary hover:text-secondary">
 							<h3 class="font-semibold">Top 5 Luxury Marinas in the Mediterranean</h3>
 							<p class="text-sm text-gray-600">May 5, 2024</p>
 						</a>
 					</li>
 					<li>
-						<a href="#" class="text-primary hover:text-secondary">
+						<a href="./blog" class="text-primary hover:text-secondary">
 							<h3 class="font-semibold">The Art of Yacht Interior Design</h3>
 							<p class="text-sm text-gray-600">April 28, 2024</p>
 						</a>
@@ -83,11 +83,11 @@
 			<div class="bg-white rounded-lg shadow-md p-6">
 				<h2 class="text-xl font-bold text-primary mb-4">Categories</h2>
 				<ul class="space-y-2">
-					<li><a href="#" class="text-primary hover:text-secondary">Yacht Maintenance</a></li>
-					<li><a href="#" class="text-primary hover:text-secondary">Luxury Travel</a></li>
-					<li><a href="#" class="text-primary hover:text-secondary">Boat Technology</a></li>
-					<li><a href="#" class="text-primary hover:text-secondary">Sailing Tips</a></li>
-					<li><a href="#" class="text-primary hover:text-secondary">Industry News</a></li>
+					<li><a href="./blog" class="text-primary hover:text-secondary">Yacht Maintenance</a></li>
+					<li><a href="./blog" class="text-primary hover:text-secondary">Luxury Travel</a></li>
+					<li><a href="./blog" class="text-primary hover:text-secondary">Boat Technology</a></li>
+					<li><a href="./blog" class="text-primary hover:text-secondary">Sailing Tips</a></li>
+					<li><a href="./blog" class="text-primary hover:text-secondary">Industry News</a></li>
 				</ul>
 			</div>
 		</aside>

@@ -12,7 +12,7 @@
 		<nav>
 			<ul class="flex md:space-x-6 gap-2 m-4">
 				<li>
-					<a href="#services" class="text-primary font-bold hover:text-secondary transition-colors"
+					<a href="./" class="text-primary font-bold hover:text-secondary transition-colors"
 						>Services</a
 					>
 				</li>
@@ -22,7 +22,7 @@
 					>
 				</li>
 				<li>
-					<a href="#contact" class="text-primary font-bold hover:text-secondary transition-colors"
+					<a href="./" class="text-primary font-bold hover:text-secondary transition-colors"
 						>Contact</a
 					>
 				</li>
