@@ -5,15 +5,12 @@
 	<div
 		class="bg-primary md:bg-opacity-90 bg-opacity-50 p-12 lg:w-1/2 w-full rounded-xl text-center text-white text-wrap"
 	>
-		<h1 class="text-5xl font-bold mb-6 font-sans">
-			Breathe New Life into Your
-			<br />Seafaring Sanctuary
-		</h1>
-		<p class="text-xl mb-8">Experience unparalleled excellence on the water</p>
+		<h1 class="text-5xl font-bold mb-6 font-sans">Elevate Your Boating Experience</h1>
+		<p class="text-xl mb-8">Premium boat canvas solutions crafted with innovation and style</p>
 		<a
 			href="#contact"
 			class="bg-secondary hover:bg-opacity-90 text-white font-bold py-3 px-6 rounded transition-colors"
-			>Get Started</a
+			>Book Now</a
 		>
 	</div>
 </section>
@@ -23,20 +20,77 @@
 		<hr class="mb-8" />
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Maintenance</h3>
-				<p>Keep your vessel in pristine condition with our expert maintenance services.</p>
+				<h3 class="text-2xl font-bold text-primary mb-4">Canvas Enclosures</h3>
+				<p>Strataglass and polycarbonate solutions for ultimate clarity and protection.</p>
 			</div>
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Upgrades</h3>
-				<p>Enhance your boat's performance and luxury with our cutting-edge upgrades.</p>
+				<h3 class="text-2xl font-bold text-primary mb-4">Biminis & Dodgers</h3>
+				<p>Custom-designed for perfect fit and superior sun protection.</p>
 			</div>
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Concierge</h3>
-				<p>Enjoy personalized assistance for all your boating needs and adventures.</p>
+				<h3 class="text-2xl font-bold text-primary mb-4">Upholstery & Covers</h3>
+				<p>High-quality materials for comfort and durability in marine environments.</p>
 			</div>
 		</div>
 	</section>
-
+	<section id="about" class="bg-white rounded-lg shadow-md p-8 mb-12 w-full place-items-center">
+		<h3 class="text-3xl font-bold text-primary mb-6">Why Choose BC Marine Canvas?</h3>
+		<div></div>
+		<ul class="space-y-4 text-gray-800">
+			<li class="flex items-start">
+				<svg
+					class="w-6 h-6 text-secondary mr-2 flex-shrink-0"
+					fill="none"
+					stroke="currentColor"
+					viewBox="0 0 24 24"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"
+					></path>
+				</svg>
+				<span>Family-owned and operated with a passion for boating</span>
+			</li>
+			<li class="flex items-start">
+				<svg
+					class="w-6 h-6 text-secondary mr-2 flex-shrink-0"
+					fill="none"
+					stroke="currentColor"
+					viewBox="0 0 24 24"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"
+					></path>
+				</svg>
+				<span>Cutting-edge 3D modeling and CNC cutting for precise fits</span>
+			</li>
+			<li class="flex items-start">
+				<svg
+					class="w-6 h-6 text-secondary mr-2 flex-shrink-0"
+					fill="none"
+					stroke="currentColor"
+					viewBox="0 0 24 24"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"
+					></path>
+				</svg>
+				<span>Premium materials and attention to detail in every project</span>
+			</li>
+			<li class="flex items-start">
+				<svg
+					class="w-6 h-6 text-secondary mr-2 flex-shrink-0"
+					fill="none"
+					stroke="currentColor"
+					viewBox="0 0 24 24"
+					xmlns="http://www.w3.org/2000/svg"
+				>
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"
+					></path>
+				</svg>
+				<span>Authorized Aquatraction foam boat flooring dealer</span>
+			</li>
+		</ul>
+	</section>
 	<section id="testimonials" class="bg-primary p-12 lg:p-20 text-white">
 		<h2 class="text-4xl font-bold text-center mb-12">What Our Clients Say</h2>
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
