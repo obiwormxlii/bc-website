@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.css';
+	const prerender = true;
 </script>
 
 <header class="bg-white shadow-md h-24">
