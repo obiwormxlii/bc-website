@@ -5,7 +5,7 @@
 	<div
 		class="bg-primary md:bg-opacity-90 bg-opacity-50 p-12 lg:w-1/2 w-full rounded-xl text-center text-white text-wrap"
 	>
-		<h1 class="text-5xl font-bold mb-6 font-sans">Elevate Your Boating Experience</h1>
+		<h1 class="text-5xl font-bold mb-6 font-Marcellus">Elevate Your Boating Experience</h1>
 		<p class="text-xl mb-8">Premium boat canvas solutions crafted with innovation and style</p>
 		<a
 			href="#contact"
@@ -16,25 +16,27 @@
 </section>
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 	<section id="services" class="pb-20 pt-10">
-		<h2 class="text-4xl font-bold text-center text-primary mb-4">Our Services</h2>
+		<h2 class="text-4xl font-bold font-Marcellus text-center text-primary mb-4">Our Services</h2>
 		<hr class="mb-8" />
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Canvas Enclosures</h3>
+				<h3 class="text-2xl font-Marcellus font-bold text-primary mb-4">Canvas Enclosures</h3>
 				<p>Strataglass and polycarbonate solutions for ultimate clarity and protection.</p>
 			</div>
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Biminis & Dodgers</h3>
+				<h3 class="text-2xl font-Marcellus font-bold text-primary mb-4">Biminis & Dodgers</h3>
 				<p>Custom-designed for perfect fit and superior sun protection.</p>
 			</div>
 			<div class="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition-shadow">
-				<h3 class="text-2xl font-bold text-primary mb-4">Upholstery & Covers</h3>
+				<h3 class="text-2xl font-Marcellus font-bold text-primary mb-4">Upholstery & Covers</h3>
 				<p>High-quality materials for comfort and durability in marine environments.</p>
 			</div>
 		</div>
 	</section>
 	<section id="about" class="bg-white rounded-lg shadow-md p-8 mb-12 w-full place-items-center">
-		<h3 class="text-3xl font-bold text-primary mb-6">Why Choose BC Marine Canvas?</h3>
+		<h3 class="text-3xl font-Marcellus font-bold text-primary mb-6">
+			Why Choose BC Marine Canvas?
+		</h3>
 		<div></div>
 		<ul class="space-y-4 text-gray-800">
 			<li class="flex items-start">
@@ -92,7 +94,7 @@
 		</ul>
 	</section>
 	<section id="testimonials" class="bg-primary p-12 lg:p-20 text-white">
-		<h2 class="text-4xl font-bold text-center mb-12">What Our Clients Say</h2>
+		<h2 class="text-4xl font-Marcellus ont-bold text-center mb-12">What Our Clients Say</h2>
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
 			<div class="bg-white p-8 rounded-lg shadow-md text-gray-800">
 				<p class="mb-4">

@@ -6,7 +6,12 @@ export default {
       colors: {
         'primary': '#1c75bc',
         'secondary': '#f7941e',
-      }
+      },
+
+      fontFamily: {
+        'Marcellus': ['Marcellus', 'sans-serif'],
+        'sans': ['"Red Hat Display"', 'sans-serif'],
+      },
     },
   },
   plugins: [],

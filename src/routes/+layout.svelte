@@ -10,7 +10,7 @@
 			</a>
 		</div>
 		<nav>
-			<ul class="flex md:space-x-6 gap-2 m-4">
+			<ul class="flex md:space-x-6 gap-2 m-4 font-Marcellus">
 				<li>
 					<a href="./" class="text-primary font-bold hover:text-secondary transition-colors"
 						>Services</a
@@ -34,7 +34,7 @@
 
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 	<section id="contact" class="py-20">
-		<h2 class="text-4xl font-bold text-center text-primary mb-12">Contact Us</h2>
+		<h2 class="text-4xl font-bold font-Marcellus text-center text-primary mb-12">Contact Us</h2>
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-8 justify-items-center">
 			<iframe
 				src="https://forms.monday.com/forms/embed/c49006bc043cb4583a0b104cf2ea9c4a?r=use1"
@@ -67,7 +67,7 @@
 				</form>
 			</div> -->
 			<div>
-				<h3 class="text-2xl font-bold text-primary mb-4">Get in Touch</h3>
+				<h3 class="text-2xl font-Marcellus font-bold text-primary mb-4">Get in Touch</h3>
 				<p class="mb-2">
 					100 Folly Landing Rd, Warwick, RI 02886
 					<br />Up the stairs, second door to the right
@@ -82,3 +82,6 @@
 <footer class="bg-gray-800 text-white py-8 text-center">
 	<p>&copy; 2024 Luxury Boat Services. All rights reserved.</p>
 </footer>
+
+<style>
+</style>
