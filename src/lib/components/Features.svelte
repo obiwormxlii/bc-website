@@ -26,7 +26,7 @@
 				<h2
 					class="text-2xl font-Marcellus text-gray-800 font-bold sm:text-3xl dark:text-neutral-200"
 				>
-					Breathe new life into your boat
+					Premium Products for a Premium Feel
 				</h2>
 
 				<!-- Tab Navs -->

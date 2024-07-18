@@ -1,11 +1,13 @@
 <script lang="ts">
 	import Hero from '$lib/components/Hero.svelte';
 	import Features from '$lib/components/Features.svelte';
+	import Clients from '$lib/components/Clients.svelte';
 </script>
 
 <Hero />
 <hr class="w-3/4 mt-20 justify-self-center" />
 <Features />
+<Clients />
 <!-- <section
 	class="hero bg-cover bg-center flex items-center justify-center h-full md:h-[80vh]"
 	style="background-image: url('hero.jpg');"
