@@ -4,7 +4,7 @@
 
 <header class="bg-white shadow-md h-24">
 	<div class="container mx-auto py-6 flex justify-center items-center h-full">
-		<nav>
+		<nav class="hidden lg:block">
 			<ul class="flex md:space-x-6 gap-2 m-4 font-Marcellus">
 				<li>
 					<a href="./" class={menuItemClasses}>CARE & UPKEEP</a>
@@ -22,7 +22,7 @@
 				<img src="logo.svg" alt="BC Marine Logo" class="w-full h-full object-contain" />
 			</a>
 		</div>
-		<nav>
+		<nav class="hidden lg:block">
 			<ul class="flex md:space-x-6 gap-2 m-4 font-Marcellus">
 				<li>
 					<a href="./" class={menuItemClasses}>AQUATRACTION</a>
