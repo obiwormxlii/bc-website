@@ -1,36 +1,13 @@
 <script lang="ts">
 	import '../app.css';
+	import Navbar from '$lib/components/Navbar.svelte';
 </script>
 
-<header class="bg-white shadow-md h-24">
-	<div class="container mx-auto py-6 flex justify-between items-center h-full">
-		<div class="w-40 m-4">
-			<a href="./">
-				<img src="logo.svg" alt="BC Marine Logo" class="w-full h-full object-contain" />
-			</a>
-		</div>
-		<nav>
-			<ul class="flex md:space-x-6 gap-2 m-4 font-Marcellus">
-				<li>
-					<a href="./" class="text-primary font-bold hover:text-secondary transition-colors"
-						>Services</a
-					>
-				</li>
-				<li>
-					<a href="./blog" class="text-primary font-bold hover:text-secondary transition-colors"
-						>Blog</a
-					>
-				</li>
-				<li>
-					<a href="./" class="text-primary font-bold hover:text-secondary transition-colors"
-						>Contact</a
-					>
-				</li>
-			</ul>
-		</nav>
-	</div>
-</header>
-<slot />
+<Navbar />
+
+<main class="grid grid-cols-1 w-screen">
+	<slot />
+</main>
 
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 	<section id="contact" class="py-20">

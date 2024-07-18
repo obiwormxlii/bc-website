@@ -1,4 +1,12 @@
-<section
+<script lang="ts">
+	import Hero from '$lib/components/Hero.svelte';
+	import Features from '$lib/components/Features.svelte';
+</script>
+
+<Hero />
+<hr class="w-3/4 mt-20 justify-self-center" />
+<Features />
+<!-- <section
 	class="hero bg-cover bg-center flex items-center justify-center h-full md:h-[80vh]"
 	style="background-image: url('hero.jpg');"
 >
@@ -13,7 +21,7 @@
 			>Book Now</a
 		>
 	</div>
-</section>
+</section> -->
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 	<section id="services" class="pb-20 pt-10">
 		<h2 class="text-4xl font-bold font-Marcellus text-center text-primary mb-4">Our Services</h2>
