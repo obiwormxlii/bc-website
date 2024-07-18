@@ -1,7 +1,7 @@
 <!-- Hero -->
 <div class="max-w-[85rem] mx-auto px-4 mt-4 sm:px-6 lg:px-8">
 	<!-- Grid -->
-	<div class="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20">
+	<div class="grid md:grid-cols-2 gap-4 items-center md:gap-8 xl:gap-20">
 		<div class="w-full justify-center">
 			<h1
 				class="block text-3xl text-center md:text-left font-Marcellus font-extrabold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white"
